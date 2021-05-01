@@ -13,3 +13,7 @@ Contains thought process and solution code for some of the CCC questions I've so
 |S1|[Surmising a Sprinter's Speed](./CCC_2020/S1/Solution.md)
 
 </details>
+
+## Issues
+
+Use [issues](https://github.com/vivian-dai/CCC-solutions/issues) to point out problems with current code (eg. TLE or some error occurs), say some part of whatever code/solution writeup is unclear, or bully me into adding a writeup to a specific problem. True, this is mostly intended for myself but I see no reason for this to exist without others being able to learn from it.
