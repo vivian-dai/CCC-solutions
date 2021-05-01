@@ -1,6 +1,6 @@
 ---
 name: Issue Name
-about: Describe this issue template's purpose here.
+about: Describe this issue template's purpose here (optional).
 title: ''
 labels: ''
 assignees: vivian-dai
