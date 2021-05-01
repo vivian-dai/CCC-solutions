@@ -10,6 +10,6 @@ Contains thought process and solution code for some of the CCC questions I've so
 
 |Problem|Name|
 |-------|----|
-|S1|[Surmising a Sprinter's Speed](./CCC_2020/S1/Problem.md)
+|S1|[Surmising a Sprinter's Speed](./CCC_2020/S1/Solution.md)
 
 </details>

@@ -6,10 +6,9 @@ Problem description is provided [here](https://www.cemc.uwaterloo.ca/contests/co
 
 ## Solution Code
 
-* [Java](./Main.java) (I will add comments and stuff..... eventually)
-* [C++](main.cpp)
-* 
-Will code up a Python solution *eventually*
+* [Java](./Main.java)
+* [C++](./main.cpp)
+* [Python](./main.py)
 
 ## Approach
 
