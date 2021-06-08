@@ -4,6 +4,8 @@ Contains thought process and solution code for some of the CCC questions I've so
 
 ## Navigation
 
+All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc). The official grader is [here](https://cccgrader.com/)
+
 <details>
 
 <summary>2017</summary>
