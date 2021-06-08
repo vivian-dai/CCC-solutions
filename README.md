@@ -18,6 +18,17 @@ All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contes
 
 <details>
 
+<summary>2019</summary>
+
+|Problem|Name|
+|-|-|
+|J4|[Flipper](./CCC_2019/S1/README.md)|
+|S1|[Flipper](./CCC_2019/S1/README.md)|
+
+</details>
+
+<details>
+
 <summary>2020</summary>
 
 |Problem|Name|
