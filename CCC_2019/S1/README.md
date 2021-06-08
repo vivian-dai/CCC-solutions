@@ -1,5 +1,7 @@
 # Flipper
 
+Problem [here](https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/seniorEF.pdf)
+
 ## Solution Code
 
 * [Python](./main.py)

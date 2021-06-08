@@ -24,6 +24,7 @@ All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contes
 |-|-|
 |J4|[Flipper](./CCC_2019/S1/README.md)|
 |S1|[Flipper](./CCC_2019/S1/README.md)|
+|S2|[Pretty Average Primes](./CCC_2019/S2/README.md)
 
 </details>
 
