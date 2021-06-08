@@ -6,12 +6,23 @@ Contains thought process and solution code for some of the CCC questions I've so
 
 <details>
 
+<summary>2017</summary>
+
+|Problem|Name|
+|-|-|
+|S2|[High Tide, Low Tide](./CCC_2017/S2/README.md)|
+
+</details>
+
+<details>
+
 <summary>2020</summary>
 
 |Problem|Name|
 |-------|----|
-|S1|[Surmising a Sprinter's Speed](./CCC_2020/S1/Solution.md)|
-|S2|[Escape Room](./CCC_2020/S2/Solution.md)|
+|J5|[Escape Room](./CCC_2020/S2/README.md)
+|S1|[Surmising a Sprinter's Speed](./CCC_2020/S1/README.md)|
+|S2|[Escape Room](./CCC_2020/S2/README.md)|
 
 </details>
 
