@@ -4,10 +4,10 @@ Contains thought process and solution code for some of the CCC questions I've so
 
 ## Navigation
 
-All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc). The official grader is [here](https://cccgrader.com/)
+All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc). The official grader is [here](https://cccgrader.com/)  
+Click on the year to expand
 
 <details>
-
 <summary>2017</summary>
 
 |Problem|Name|
@@ -15,9 +15,7 @@ All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contes
 |S2|[High Tide, Low Tide](./CCC_2017/S2/README.md)|
 
 </details>
-
 <details>
-
 <summary>2019</summary>
 
 |Problem|Name|
@@ -27,9 +25,7 @@ All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contes
 |S2|[Pretty Average Primes](./CCC_2019/S2/README.md)
 
 </details>
-
 <details>
-
 <summary>2020</summary>
 
 |Problem|Name|
