@@ -1,5 +1,5 @@
 # Choose your own path
-Problem description [here](https://www.cemc.uwaterloo.ca/contests/computing/2018/stage 1/juniorEF.pdf)
+Problem description [here](https://www.cemc.uwaterloo.ca/contests/computing/2018/stage%201/juniorEF.pdf)
 
 ## Solution Code
 * [Python](./main.py)
