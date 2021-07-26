@@ -1,13 +1,10 @@
 # Flipper
-
 Problem [here](https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/seniorEF.pdf)
 
 ## Solution Code
-
 * [Python](./main.py)
 
 ## Approach
-
 Notice that 2 horizontal flips will cancel out and that 2 vertical flips will also cancel out. This means there are only 4 states:  
 Even number of vertical flips, even number of horizontal flips:
 

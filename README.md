@@ -13,7 +13,13 @@ Click on the year to expand
 |Problem|Name|
 |-|-|
 |S2|[High Tide, Low Tide](./CCC_2017/S2/README.md)|
+</details>
+<details>
+<summary>2018</summary>
 
+|Problem|Name|
+|-|-|
+|J5|[Choose your own path](./CCC_2018/J5/README.md)|
 </details>
 <details>
 <summary>2019</summary>
@@ -23,7 +29,6 @@ Click on the year to expand
 |J4|[Flipper](./CCC_2019/S1/README.md)|
 |S1|[Flipper](./CCC_2019/S1/README.md)|
 |S2|[Pretty Average Primes](./CCC_2019/S2/README.md)
-
 </details>
 <details>
 <summary>2020</summary>
@@ -33,7 +38,6 @@ Click on the year to expand
 |J5|[Escape Room](./CCC_2020/S2/README.md)
 |S1|[Surmising a Sprinter's Speed](./CCC_2020/S1/README.md)|
 |S2|[Escape Room](./CCC_2020/S2/README.md)|
-
 </details>
 
 ## Issues
