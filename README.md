@@ -1,9 +1,7 @@
 # CCC-solutions
-
 Contains thought process and solution code for some of the CCC questions I've solved. Thought process will be in a markdown file, code will likely be in C++ Java and Python unless I get lazy and exclude one of those languages. This is an attempt to aim at being as easily comprehensible as possible so that *I* will be able to know what the heck I was doing when I look back at it later.
 
 ## Navigation
-
 All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc). The official grader is [here](https://cccgrader.com/)  
 Click on the year to expand
 
@@ -41,5 +39,4 @@ Click on the year to expand
 </details>
 
 ## Issues
-
-Use [issues](https://github.com/vivian-dai/CCC-solutions/issues) to point out problems with current code (eg. TLE or some error occurs), say some part of whatever code/solution writeup is unclear, or bully me into adding a writeup to a specific problem. True, this is mostly intended for myself but I see no reason for this to exist without others being able to learn from it.
+Use [issues](https://github.com/vivian-dai/CCC-solutions/issues) to point out problems with current code (eg. TLE or some error occurs), say some part of whatever code/solution writeup is unclear, or bully me into adding a writeup to a specific problem. I will only care if the solution doesn't pass on the official grader (ignoring the existence of other sites that have added CCC questions). True, this is mostly intended for myself but I see no reason for this to exist without others being able to learn from it.
