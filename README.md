@@ -44,6 +44,7 @@ Click on the year to expand
 |Problem|Name|
 |-------|----|
 |S1|[Crazy Fencing](./CCC_2021/S1/)|
+|S2|[Modern Art](./CCC_2021/S2/)|
 </details>
 
 ## Issues
