@@ -11,6 +11,7 @@ Click on the year to expand
 |Problem|Name|
 |-|-|
 |S2|[High Tide, Low Tide](./CCC_2017/S2/)|
+|S3|[Nailed It!](./CCC_2017/S3/)|
 </details>
 <details>
 <summary>2018</summary>
