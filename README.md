@@ -19,6 +19,7 @@ Click on the year to expand
 |Problem|Name|
 |-|-|
 |J5|[Choose your own path](./CCC_2018/J5/)|
+|S2|[Sunflowers](./CCC_2018/S2/)|
 </details>
 <details>
 <summary>2019</summary>
