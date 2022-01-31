@@ -6,6 +6,15 @@ All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contes
 Click on the year to expand
 
 <details>
+<summary>2016</summary>
+
+|Problem|Name|
+|-|-|
+|S1|[Ragaman](./CCC_2016/S1/)|
+|S2|[Tandem Bicycle](./CCC_2016/S2/)|
+</details>
+
+<details>
 <summary>2017</summary>
 
 |Problem|Name|
