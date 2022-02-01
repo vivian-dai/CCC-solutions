@@ -6,6 +6,14 @@ All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contes
 Click on the year to expand
 
 <details>
+<summary>2015</summary>
+
+|Problem|Name|
+|-|-|
+|S3|[Gates](./CCC_2015/)|
+</details>
+
+<details>
 <summary>2016</summary>
 
 |Problem|Name|
