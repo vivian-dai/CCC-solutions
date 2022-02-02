@@ -10,7 +10,7 @@ Click on the year to expand
 
 |Problem|Name|
 |-|-|
-|S3|[Gates](./CCC_2015/)|
+|S3|[Gates](./CCC_2015/S3/)|
 </details>
 
 <details>
