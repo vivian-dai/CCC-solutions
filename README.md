@@ -10,6 +10,8 @@ Click on the year to expand
 
 |Problem|Name|
 |-|-|
+|S1|[Zero That Out](./CCC_2015/S1/)|
+|S2|[Jerseys](./CCC_2015/S2/)|
 |S3|[Gates](./CCC_2015/S3/)|
 </details>
 
