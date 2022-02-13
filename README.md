@@ -6,6 +6,16 @@ All questions can be found [here](https://cemc.uwaterloo.ca/contests/past_contes
 Click on the year to expand
 
 <details>
+<summary>2014</summary>
+
+|Problem|Name|
+|-|-|
+|S1|[Party Invitation](./CCC_2014/S1/)|
+|S2|[Assigning Partners](./CCC_2014/S2/)
+|S3|[The Geneva Confection](./CCC_2014/S3/)|
+</details>
+
+<details>
 <summary>2015</summary>
 
 |Problem|Name|
